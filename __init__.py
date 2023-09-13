@@ -6,8 +6,8 @@ bl_info = {
     "version" : (1,2),
     "author" : "Kent Edoloverio",
     "description" : "Turns mesh into clay",
-    "wiki_url" : "",
-    "tracker_url" : "",
+    "wiki_url" : "https://github.com/kents00/MakethatClay",
+    "tracker_url" : "https://github.com/kents00/MakethatClay/issues",
     }
 
 import bpy
